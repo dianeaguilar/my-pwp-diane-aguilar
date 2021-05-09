@@ -1,6 +1,5 @@
 .stickpic {
-    position: -webkit-sticky;
-    position: sticky;
+    position: fixed;
     height: 50px;
     top: 0;
 }
