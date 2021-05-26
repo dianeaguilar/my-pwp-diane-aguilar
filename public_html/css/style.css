@@ -5,3 +5,11 @@
 label {
     display: block;
 }
+
+.welcome-text {
+    color: white;
+    font-weight: normal;
+    font-size: 4rem;
+    padding-top: 4rem;
+    margin-top: 4rem;
+}
